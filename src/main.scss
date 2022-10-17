@@ -1,0 +1,86 @@
+.container {
+    margin: 0;
+    padding: 0 50px;
+}
+
+.header-inner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.site-nav-list {
+    list-style: none;
+    display: flex;
+    // justify-content: space-between;
+    align-items: center;
+}
+
+
+.nav-list_items {
+    color: green;
+    margin-left: 35px;
+}
+
+.navbar-items {
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #192252;
+}
+
+.login-btn {
+    width: 121px;
+    height: 37px;
+    background: #0E1734;
+    border-radius: 4px;
+
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 19px;
+    color: #FFFFFF;
+    cursor: pointer;
+}
+
+.site-hero {
+    margin-top: 45px;
+    margin-bottom: 45px;
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.hero-wrapper__heading {
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 48px;
+    line-height: 150%;
+    letter-spacing: -0.01em;
+    color: #192252;
+}
+
+.hero-wrapper__text {
+    width: 485px;
+    height: 81px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    color: #848FAC;
+}
+
+.hero-img {
+    width: 450px;
+    height: 450px;
+}
+
+.norway-hotel {
+    margin-top: 100px;
+}
